@@ -1,0 +1,989 @@
+{
+ "huella": "334c23c0644d35f6",
+ "paginas": [
+  [
+   1,
+   "ESTUDIOS GENERALES\nPRIMER CICLO\nCódigo | Asignatura | Créditos | T | P | L | Requisitos\nCBO101 | Lenguaje | 4 | 2 | 4\nCBO102 | Métodos de Estudio Universitario | 3 | 2 | 2\nCBO103 | Gestión Personal | 3 | 2 | 2\nCBO104 | Cálculo I | 4 | 3 | 2\nCBO105 | Matemática Básica | 4 | 3 | 2\nCBO106 | Biología | 4 | 2 | 4\nCursos electivos | 2 | 2\nTotal | 24\nESTUDIOS GENERALES\nSEGUNDO CICLO\nCódigo | Asignatura | Créditos | T | P | L | Requisitos\nCBO201 | Fundamentos de Investigación Científica | 3 | 2 | 2\nCBO202 | Medio Ambiente y Desarrollo Sostenible | 4 | 2 | 4 | Biología\nCBO203 | Realidad Vacional y Mundial | 3 | 3\nCBO204 | Cálculo II | 4 | 3 | 2 | Cálculo I\nCBO205 | Química Inorgánica y Orgánica | 4 | 3 | 2\nCBO206 | Física General | 4 | 3 | 2 | 4\nCursos plectivos | 2 | 1 | 2 | Ninouno\n"
+  ],
+  [
+   2,
+   "TERCER CICLO\nCódigo | Asignatura | Créditos | T | P | L | Requisitos\n1814431 | Cálculo III | 5 | 3 | Cálculo II\n1814432 | Álgebra Lineal | 6 | 4 | 4 | Matemática Básica\n1814433 | Estadística y Probabilidad | 6 | 4 | 2 | 2 | Matemática Básica, Cálculo II\n1814434 | Economía | 4 | 3 | 2 | Realidad Nacional y Mundial, Medio Ambiente y Desarrollo Sostenible\n1814435 | Modelos Determinísticos en Investigación Operativa I | 5 | 3 | 2 | 2 | Cálculo I\nTotal | 26\nCUARTO CICLO\nCódigo | Asignatura | Créditos | T | P | L | Requisitos\n1814441 | Programación de Computadoras | 6 | 4 | 2 | 2 | Modelos Determinísticos en Investigación Operativa I\n1814442 | Inferencia Estadística | 6 | 4 | 4 | Estadística y Probabilidad\n1814443 | Introducción a las Ecuaciones Diferenciales Ordinarias | 4 | 3 | 2 | Cálculo III, Algebra Lineal\n1814444 | Programación Lineal y Entera | 6 | 4 | 2 | Algebra Lineal\nTotal | 22"
+  ],
+  [
+   3,
+   "QUINTO CICLO\nCódigo | Asignatura | Créditos | T | P | L | Requisitos\n1814451 | Teoría, análisis y diseño de sistemas | 6 | 4 | 2 | 2 | Modelos Determinísticos en Investigación Operativa I\n1814452 | Modelos Determinísticos en Investigación Operativa II | 5 | 3 | 2 | 2 | Modelos Determinísticos en Investigación Operativa I Programación Lineal y Entera\n1814453 | Matemática Financiera | 4 | 2 | 2 | 2 | Algebra Lineal, Economía, Programación Lineal y Entera\n1814454 | Métodos Numéricos | 6 | 4 | 2 | 2 | Programación de Computadoras, Cálculo II  Algebra Lineal\n1814455 | Práctica Pre Profesional Módulo I | 2 | 4 | Modelos Determinísticos en Investigación Operativa I Programación de Computadoras, Programación Lineal y Entera\nTotal | 23\nSEXTO CICLO\nCódigo | Asignatura | Créditos | T | P | L | Requisitos\n1814461 | Modelos Probabilísticos en Investigación Operativa I | 6 | 4 | 2 | 2 | Modelos Determinísticos en Investigación Operativa I Estadística y Probabilidad\n1814462 | Procesos Estocásticos | 6 | 4 | 2 | 2 | Estadística y Probabilidad Introducción a las Ecuaciones Diferenciales Ordinarias\n1814463 | Gestión de Sistemas Organizacionales | 4 | 2 | 2 | 2 | Teoría, Análisis y Diseño de Sistemas.\n1814464 | Seminario de Investigación I | 4 | 4 | Modelos determinísticos en Investigación Operativa II\nElectivo 1 | 3 | 2 | 2\nTotal | 23"
+  ],
+  [
+   4,
+   "SEPTIMO CICLO\nCódigo | Asignatura | Créditos | T | P | L | Requisitos\n1814471 | Modelos Probabilísticos en Investigación Operativa II | 6 | 4 | 2 | 2 | Modelos Probabilísticos en Investigación Operativa I\n1814472 | Simulación de Sistemas | 6 | 4 | 2 | 2 | Procesos Estocásticos, Modelos Probabilísticos en Investigación Operativa I, Inferencia Estadística\n1814473 | Teoría de Grafos | 6 | 4 | 2 | 2 | Programación Lineal y Entera\nElectivo II | 3 | 2 | 2\nTotal | 21\nOCTAVO CICLO\nCódigo | Asignatura | Créditos | T | P | L | Requisitos\n1814481 | Heurísticas y Metaheurísticas | 6 | 4 | 2 | 2 | Teoría de grafos, Programación de computadoras\n1814482 | Teoría de Decisiones | 6 | 4 | 2 | 2 | Inferencia Estadística, Matemática Financiera\n1814483 | Programación No Lineal y Dinámica | 6 | 4 | 2 | 2 | Métodos Numéricos, Cálculo III Programación Lineal y entera\n1814484 | Seminario de investigación II | 3 | 2 | 2 | Seminario de investigación I\n1814485 | Práctica Pre Profesional Módulo II | 2 | 4 | Teoría de grafos, Modelos Probabilísticos en Investigación Operativa II Simulación de Sistemas, Práctica Pre Profesional Módulo I\nTotal | 23"
+  ],
+  [
+   5,
+   "NOVENO CICLO\nCódigo | Asignatura | Créditos | T | P | L | Requisitos\n1814491 | Modelos Econométricos | 5 | 4 | 3 | Inferencia Estadística, Economía, Matemática Financiera\n1814492 | Seminario de Tesis de Investigación Operativa I | 6 | 6 | Simulación de Sistemas, Programación no Lineal y Dinámica, Teoría de Decisiones, Teoría de Grafos, Seminario de Investigación II\n1814493 | Estudio de casos de Investigación Operativa | 4 | 4 | Simulación de Sistemas, Programación no Lineal y Dinámica, Teoría de Decisiones, Teoría de Grafos, Heurísticas y Metaheurísticas\n1814494 | Formulación y Gestión de Proyectos | 3 | 2 | 2 | Matemática Financiera, Gestión de Sistemas Organizacionales\nElectivo III | 3 | 2 | 2\nTotal | 21\nDÉCIMO SEMESTRE\nCódigo | Asignatura | Créditos | T | P | L | Requisitos\n1814401 | Series Cronológicas | 4 | 2 | 2 | 2 | Modelos Econométricos\n1814402 | Seminario de Tesis de Investigación Operativa II | 6 | 6 | Seminario de Tesis de Investigación Operativa I\n1814403 | Práctica Pre- Profesional Modulo III | 2 | 4 | Práctica Pre Profesional Módulo II\nElectivo IV | 3 | 2 | 2\nTotal | 15"
+  ],
+  [
+   6,
+   "SISTEMAS DE GESTIÓN DE CALIDAD BASADO EN PROCESOS\nCódigo | Asignatura | Créditos | T | P | L | Requisitos\n1814411 | Gestión de la calidad | 3 | 2 | 2 | Gestión de Sistemas Organizacionales\n1814412 | Indicadores de Gestión | 3 | 2 | 2 | Gestión de la calidad\n1814413 | Técnicas de mejoramiento de la calidad | 3 | 2 | 2 | Gestión de la calidad\nSISTEMAS DE TRANSPORTE Y GESTIÓN LOGISTICA\nCódigo | Asignatura | Créditos | T | P | L | Requisitos\n1814414 | Modelos de transporte | 3 | 2 | 2 | Modelos determinísticos en Investigación Operativa II\n1814415 | Redes de optimización | 3 | 2 | 2 | Heurísticas y Metaheurísticas\n1814416 | Logística y cadena de suministro | 3 | 2 | 2 | Modelos determinísticos en Investigación Operativa I"
+  ],
+  [
+   7,
+   "SISTEMAS COMPUTACIONALES\nCódigo | Asignatura | Créditos | T | P | L | Requisitos\n1814417 | Inteligencia artificial | 3 | 2 | 2 | Teoría de Grafos\n1814418 | Analítica de Negocios | 3 | 2 | 2 | Inteligencia Artificial\n1814419 | Introducción a la minería de datos | 3 | 2 | 2 | Teoría de Grafos, Programación no Lineal y Dinámica\n1814420 | Introducción a la Base de datos | 3 | 2 | 2 | Programación de Computadoras"
+  ]
+ ],
+ "tablas": [
+  [
+   1,
+   [
+    [
+     "",
+     "",
+     "ESTUDIOS GENERALES",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "PRIMER CICLO",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Código",
+     "Asignatura",
+     "Créditos",
+     "T",
+     "P",
+     "L",
+     "Requisitos"
+    ],
+    [
+     "CBO101",
+     "Lenguaje",
+     "4",
+     "2",
+     "4",
+     "",
+     ""
+    ],
+    [
+     "CBO102",
+     "Métodos de Estudio Universitario",
+     "3",
+     "2",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "CBO103",
+     "Gestión Personal",
+     "3",
+     "2",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "CBO104",
+     "Cálculo I",
+     "4",
+     "3",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "CBO105",
+     "Matemática Básica",
+     "4",
+     "3",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "CBO106",
+     "Biología",
+     "4",
+     "2",
+     "4",
+     "",
+     ""
+    ],
+    [
+     "",
+     "Cursos electivos",
+     "2",
+     "2",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "Total",
+     "24",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  ],
+  [
+   1,
+   [
+    [
+     "",
+     "",
+     "ESTUDIOS GENERALES",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "SEGUNDO CICLO",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Código",
+     "Asignatura",
+     "Créditos",
+     "T",
+     "P",
+     "L",
+     "Requisitos"
+    ],
+    [
+     "CBO201",
+     "Fundamentos de Investigación Científica",
+     "3",
+     "2",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "CBO202",
+     "Medio Ambiente y Desarrollo Sostenible",
+     "4",
+     "2",
+     "4",
+     "",
+     "Biología"
+    ],
+    [
+     "CBO203",
+     "Realidad Vacional y Mundial",
+     "3",
+     "3",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CBO204",
+     "Cálculo II",
+     "4",
+     "3",
+     "2",
+     "",
+     "Cálculo I"
+    ],
+    [
+     "CBO205",
+     "Química Inorgánica y Orgánica",
+     "4",
+     "3",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "CBO206",
+     "Física General",
+     "4",
+     "3",
+     "2",
+     "4",
+     ""
+    ],
+    [
+     "",
+     "Cursos plectivos",
+     "2",
+     "1",
+     "2",
+     "",
+     "Ninouno"
+    ],
+    [
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  ],
+  [
+   2,
+   [
+    [
+     "",
+     "",
+     "TERCER CICLO",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Código",
+     "Asignatura",
+     "Créditos",
+     "T",
+     "P",
+     "L",
+     "Requisitos"
+    ],
+    [
+     "1814431",
+     "Cálculo III",
+     "5",
+     "3",
+     "",
+     "",
+     "Cálculo II"
+    ],
+    [
+     "1814432",
+     "Álgebra Lineal",
+     "6",
+     "4",
+     "4",
+     "",
+     "Matemática Básica"
+    ],
+    [
+     "1814433",
+     "Estadística y Probabilidad",
+     "6",
+     "4",
+     "2",
+     "2",
+     "Matemática Básica, Cálculo II"
+    ],
+    [
+     "1814434",
+     "Economía",
+     "4",
+     "3",
+     "2",
+     "",
+     "Realidad Nacional y Mundial, Medio Ambiente y Desarrollo Sostenible"
+    ],
+    [
+     "1814435",
+     "Modelos Determinísticos en Investigación Operativa I",
+     "5",
+     "3",
+     "2",
+     "2",
+     "Cálculo I"
+    ],
+    [
+     "",
+     "Total",
+     "26",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  ],
+  [
+   2,
+   [
+    [
+     "",
+     "",
+     "CUARTO CICLO",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Código",
+     "Asignatura",
+     "Créditos",
+     "T",
+     "P",
+     "L",
+     "Requisitos"
+    ],
+    [
+     "1814441",
+     "Programación de Computadoras",
+     "6",
+     "4",
+     "2",
+     "2",
+     "Modelos Determinísticos en Investigación Operativa I"
+    ],
+    [
+     "1814442",
+     "Inferencia Estadística",
+     "6",
+     "4",
+     "4",
+     "",
+     "Estadística y Probabilidad"
+    ],
+    [
+     "1814443",
+     "Introducción a las Ecuaciones Diferenciales Ordinarias",
+     "4",
+     "3",
+     "2",
+     "",
+     "Cálculo III, Algebra Lineal"
+    ],
+    [
+     "1814444",
+     "Programación Lineal y Entera",
+     "6",
+     "4",
+     "",
+     "2",
+     "Algebra Lineal"
+    ],
+    [
+     "",
+     "Total",
+     "22",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  ],
+  [
+   3,
+   [
+    [
+     "",
+     "",
+     "",
+     "QUINTO CICLO",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Código",
+     "Asignatura",
+     "Créditos",
+     "T",
+     "P",
+     "L",
+     "Requisitos"
+    ],
+    [
+     "1814451",
+     "Teoría, análisis y diseño de sistemas",
+     "6",
+     "4",
+     "2",
+     "2",
+     "Modelos Determinísticos en Investigación Operativa I"
+    ],
+    [
+     "1814452",
+     "Modelos Determinísticos en Investigación Operativa II",
+     "5",
+     "3",
+     "2",
+     "2",
+     "Modelos Determinísticos en Investigación Operativa I Programación Lineal y Entera"
+    ],
+    [
+     "1814453",
+     "Matemática Financiera",
+     "4",
+     "2",
+     "2",
+     "2",
+     "Algebra Lineal, Economía, Programación Lineal y Entera"
+    ],
+    [
+     "1814454",
+     "Métodos Numéricos",
+     "6",
+     "4",
+     "2",
+     "2",
+     "Programación de Computadoras, Cálculo II  Algebra Lineal"
+    ],
+    [
+     "1814455",
+     "Práctica Pre Profesional Módulo I",
+     "2",
+     "",
+     "4",
+     "",
+     "Modelos Determinísticos en Investigación Operativa I Programación de Computadoras, Programación Lineal y Entera"
+    ],
+    [
+     "",
+     "Total",
+     "23",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  ],
+  [
+   3,
+   [
+    [
+     "SEXTO CICLO"
+    ],
+    [
+     "Código",
+     "Asignatura",
+     "Créditos",
+     "T",
+     "P",
+     "L",
+     "Requisitos"
+    ],
+    [
+     "1814461",
+     "Modelos Probabilísticos en Investigación Operativa I",
+     "6",
+     "4",
+     "2",
+     "2",
+     "Modelos Determinísticos en Investigación Operativa I Estadística y Probabilidad"
+    ],
+    [
+     "1814462",
+     "Procesos Estocásticos",
+     "6",
+     "4",
+     "2",
+     "2",
+     "Estadística y Probabilidad Introducción a las Ecuaciones Diferenciales Ordinarias"
+    ],
+    [
+     "1814463",
+     "Gestión de Sistemas Organizacionales",
+     "4",
+     "2",
+     "2",
+     "2",
+     "Teoría, Análisis y Diseño de Sistemas."
+    ],
+    [
+     "1814464",
+     "Seminario de Investigación I",
+     "4",
+     "4",
+     "",
+     "",
+     "Modelos determinísticos en Investigación Operativa II"
+    ],
+    [
+     "",
+     "Electivo 1",
+     "3",
+     "2",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "",
+     "Total",
+     "23",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  ],
+  [
+   4,
+   [
+    [
+     "",
+     "",
+     "SEPTIMO CICLO",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Código",
+     "Asignatura",
+     "Créditos",
+     "T",
+     "P",
+     "L",
+     "Requisitos"
+    ],
+    [
+     "1814471",
+     "Modelos Probabilísticos en Investigación Operativa II",
+     "6",
+     "4",
+     "2",
+     "2",
+     "Modelos Probabilísticos en Investigación Operativa I"
+    ],
+    [
+     "1814472",
+     "Simulación de Sistemas",
+     "6",
+     "4",
+     "2",
+     "2",
+     "Procesos Estocásticos, Modelos Probabilísticos en Investigación Operativa I, Inferencia Estadística"
+    ],
+    [
+     "1814473",
+     "Teoría de Grafos",
+     "6",
+     "4",
+     "2",
+     "2",
+     "Programación Lineal y Entera"
+    ],
+    [
+     "",
+     "Electivo II",
+     "3",
+     "2",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "",
+     "Total",
+     "21",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  ],
+  [
+   4,
+   [
+    [
+     "",
+     "",
+     "OCTAVO CICLO",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Código",
+     "Asignatura",
+     "Créditos",
+     "T",
+     "P",
+     "L",
+     "Requisitos"
+    ],
+    [
+     "1814481",
+     "Heurísticas y Metaheurísticas",
+     "6",
+     "4",
+     "2",
+     "2",
+     "Teoría de grafos, Programación de computadoras"
+    ],
+    [
+     "1814482",
+     "Teoría de Decisiones",
+     "6",
+     "4",
+     "2",
+     "2",
+     "Inferencia Estadística, Matemática Financiera"
+    ],
+    [
+     "1814483",
+     "Programación No Lineal y Dinámica",
+     "6",
+     "4",
+     "2",
+     "2",
+     "Métodos Numéricos, Cálculo III Programación Lineal y entera"
+    ],
+    [
+     "1814484",
+     "Seminario de investigación II",
+     "3",
+     "2",
+     "2",
+     "",
+     "Seminario de investigación I"
+    ],
+    [
+     "1814485",
+     "Práctica Pre Profesional Módulo II",
+     "2",
+     "",
+     "4",
+     "",
+     "Teoría de grafos, Modelos Probabilísticos en Investigación Operativa II Simulación de Sistemas, Práctica Pre Profesional Módulo I"
+    ],
+    [
+     "",
+     "Total",
+     "23",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  ],
+  [
+   5,
+   [
+    [
+     "",
+     "",
+     "NOVENO CICLO",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Código",
+     "Asignatura",
+     "Créditos",
+     "T",
+     "P",
+     "L",
+     "Requisitos"
+    ],
+    [
+     "1814491",
+     "Modelos Econométricos",
+     "5",
+     "4",
+     "3",
+     "",
+     "Inferencia Estadística, Economía, Matemática Financiera"
+    ],
+    [
+     "1814492",
+     "Seminario de Tesis de Investigación Operativa I",
+     "6",
+     "6",
+     "",
+     "",
+     "Simulación de Sistemas, Programación no Lineal y Dinámica, Teoría de Decisiones, Teoría de Grafos, Seminario de Investigación II"
+    ],
+    [
+     "1814493",
+     "Estudio de casos de Investigación Operativa",
+     "4",
+     "4",
+     "",
+     "",
+     "Simulación de Sistemas, Programación no Lineal y Dinámica, Teoría de Decisiones, Teoría de Grafos, Heurísticas y Metaheurísticas"
+    ],
+    [
+     "1814494",
+     "Formulación y Gestión de Proyectos",
+     "3",
+     "2",
+     "2",
+     "",
+     "Matemática Financiera, Gestión de Sistemas Organizacionales"
+    ],
+    [
+     "",
+     "Electivo III",
+     "3",
+     "2",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "",
+     "Total",
+     "21",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  ],
+  [
+   5,
+   [
+    [
+     "",
+     "",
+     "DÉCIMO SEMESTRE",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Código",
+     "Asignatura",
+     "Créditos",
+     "T",
+     "P",
+     "L",
+     "Requisitos"
+    ],
+    [
+     "1814401",
+     "Series Cronológicas",
+     "4",
+     "2",
+     "2",
+     "2",
+     "Modelos Econométricos"
+    ],
+    [
+     "1814402",
+     "Seminario de Tesis de Investigación Operativa II",
+     "6",
+     "6",
+     "",
+     "",
+     "Seminario de Tesis de Investigación Operativa I"
+    ],
+    [
+     "1814403",
+     "Práctica Pre- Profesional Modulo III",
+     "2",
+     "",
+     "4",
+     "",
+     "Práctica Pre Profesional Módulo II"
+    ],
+    [
+     "",
+     "Electivo IV",
+     "3",
+     "2",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "",
+     "Total",
+     "15",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  ],
+  [
+   6,
+   [
+    [
+     "",
+     "",
+     "SISTEMAS DE GESTIÓN DE CALIDAD BASADO EN PROCESOS",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Código",
+     "Asignatura",
+     "Créditos",
+     "T",
+     "P",
+     "L",
+     "Requisitos"
+    ],
+    [
+     "1814411",
+     "Gestión de la calidad",
+     "3",
+     "2",
+     "2",
+     "",
+     "Gestión de Sistemas Organizacionales"
+    ],
+    [
+     "1814412",
+     "Indicadores de Gestión",
+     "3",
+     "2",
+     "2",
+     "",
+     "Gestión de la calidad"
+    ],
+    [
+     "1814413",
+     "Técnicas de mejoramiento de la calidad",
+     "3",
+     "2",
+     "2",
+     "",
+     "Gestión de la calidad"
+    ]
+   ]
+  ],
+  [
+   6,
+   [
+    [
+     "",
+     "",
+     "SISTEMAS DE TRANSPORTE Y GESTIÓN LOGISTICA",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Código",
+     "Asignatura",
+     "Créditos",
+     "T",
+     "P",
+     "L",
+     "Requisitos"
+    ],
+    [
+     "1814414",
+     "Modelos de transporte",
+     "3",
+     "2",
+     "2",
+     "",
+     "Modelos determinísticos en Investigación Operativa II"
+    ],
+    [
+     "1814415",
+     "Redes de optimización",
+     "3",
+     "2",
+     "2",
+     "",
+     "Heurísticas y Metaheurísticas"
+    ],
+    [
+     "1814416",
+     "Logística y cadena de suministro",
+     "3",
+     "2",
+     "2",
+     "",
+     "Modelos determinísticos en Investigación Operativa I"
+    ]
+   ]
+  ],
+  [
+   6,
+   []
+  ],
+  [
+   7,
+   [
+    [
+     "",
+     "",
+     "SISTEMAS COMPUTACIONALES",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Código",
+     "Asignatura",
+     "Créditos",
+     "T",
+     "P",
+     "L",
+     "Requisitos"
+    ],
+    [
+     "1814417",
+     "Inteligencia artificial",
+     "3",
+     "2",
+     "2",
+     "",
+     "Teoría de Grafos"
+    ],
+    [
+     "1814418",
+     "Analítica de Negocios",
+     "3",
+     "2",
+     "2",
+     "",
+     "Inteligencia Artificial"
+    ],
+    [
+     "1814419",
+     "Introducción a la minería de datos",
+     "3",
+     "2",
+     "2",
+     "",
+     "Teoría de Grafos, Programación no Lineal y Dinámica"
+    ],
+    [
+     "1814420",
+     "Introducción a la Base de datos",
+     "3",
+     "2",
+     "2",
+     "",
+     "Programación de Computadoras"
+    ]
+   ]
+  ]
+ ]
+}

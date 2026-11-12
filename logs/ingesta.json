@@ -1,0 +1,93 @@
+{
+  "fecha": "2026-11-12T18:37:23",
+  "documentos": 19,
+  "fragmentos": 1018,
+  "fragmentos_por_documento": {
+    "cc_plan_2018_original.pdf": 69,
+    "cc_sumillas_2018.pdf": 28,
+    "cc_plan_2026_reporte_final.pdf": 757,
+    "cc_plan_2018_modif_2021.pdf": 12,
+    "cc_plan_2018_modif_2026.pdf": 4,
+    "cc_plan_2018_modif_2026_anexo.pdf": 4,
+    "mat_plan_2018.pdf": 7,
+    "mat_sumillas_2018.pdf": 30,
+    "est_plan_2018.pdf": 6,
+    "est_malla_2018.pdf": 2,
+    "est_sumillas_2018.pdf": 28,
+    "est_plan_2018_modif_2021_anexo.pdf": 6,
+    "est_plan_2023.pdf": 5,
+    "est_malla_2023.pdf": 2,
+    "est_sumillas_2023.pdf": 42,
+    "est_rr_009311_2024_plan_2023.pdf": 5,
+    "io_plan_2018_modif_2020.pdf": 3,
+    "io_plan_2018_modif_2020_anexo.pdf": 8
+  },
+  "cursos": 378,
+  "por_plan": [
+    {
+      "carrera": "Computación Científica",
+      "plan": "2018",
+      "cursos": 68,
+      "con_sumilla": 55,
+      "sin_creditos": 0,
+      "creditos_obligatorios": 231.0
+    },
+    {
+      "carrera": "Computación Científica",
+      "plan": "2026",
+      "cursos": 67,
+      "con_sumilla": 66,
+      "sin_creditos": 0,
+      "creditos_obligatorios": 188.0
+    },
+    {
+      "carrera": "Estadística",
+      "plan": "2018",
+      "cursos": 57,
+      "con_sumilla": 57,
+      "sin_creditos": 0,
+      "creditos_obligatorios": 211.0
+    },
+    {
+      "carrera": "Estadística",
+      "plan": "2023",
+      "cursos": 57,
+      "con_sumilla": 56,
+      "sin_creditos": 0,
+      "creditos_obligatorios": 212.0
+    },
+    {
+      "carrera": "Investigación Operativa",
+      "plan": "2018",
+      "cursos": 55,
+      "con_sumilla": 0,
+      "sin_creditos": 0,
+      "creditos_obligatorios": 206.0
+    },
+    {
+      "carrera": "Matemática",
+      "plan": "2018",
+      "cursos": 74,
+      "con_sumilla": 39,
+      "sin_creditos": 15,
+      "creditos_obligatorios": 199.0
+    }
+  ],
+  "prerrequisitos_sin_resolver": 7,
+  "errores_validacion": [],
+  "ids_duplicados": [],
+  "colecciones_chroma": {
+    "cursos": 378,
+    "fragmentos": 1018
+  },
+  "tiempos_s": {
+    "inventario": 0.01,
+    "fragmentos": 1.86,
+    "mallas": 4.58,
+    "sumillas": 0.96,
+    "validacion": 0.0,
+    "dataset": 0.05,
+    "indexacion": 115.27
+  },
+  "ram_mb": 1471
+}

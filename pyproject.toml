@@ -1,0 +1,37 @@
+[project]
+name = "rag-mallas-unmsm"
+version = "0.1.0"
+description = "API RAG sobre los planes de estudio de la Facultad de Ciencias Matemáticas (UNMSM)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pymupdf>=1.24",
+    "pdfplumber>=0.11",
+    "pandas>=2.2",
+    "pydantic>=2.7",
+    "rapidfuzz>=3.9",
+    "sentence-transformers>=3.0",
+    "torch>=2.3",
+    "chromadb>=0.5",
+    "rank-bm25>=0.2.2",
+    "psutil>=5.9",
+    "easyocr>=1.7.2",
+    "opencv-python-headless>=5.0.0.93",
+    "torchvision>=0.29.2",
+]
+
+[dependency-groups]
+dev = ["pytest>=8.2"]
+
+# PyTorch solo CPU (~200 MB en vez de varios GB con CUDA)
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
+torchvision = { index = "pytorch-cpu" }
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[tool.uv]
+package = false

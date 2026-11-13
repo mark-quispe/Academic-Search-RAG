@@ -24,18 +24,33 @@ logs/                    # métricas de consumo por consulta
 
 ## Ingesta (PDF → dataset → ChromaDB)
 
-Requisito: [uv](https://docs.astral.sh/uv/). La primera vez instala Python 3.11 y las dependencias (PyTorch solo CPU).
+Requisitos: Git y Python. [uv](https://docs.astral.sh/uv/) instala por su cuenta Python 3.11 y las versiones exactas de `uv.lock` (PyTorch solo CPU).
 
+## 1. Clonar
 ```bash
+git clone https://github.com/mark-quispe/Academic-Search-RAG.git
+cd Academic-Search-RAG
+```
+## 2. Instalar dependencias (crea .venv)
+```bash
+pip install uv
 uv sync
-uv run python -m ingesta             # PDF -> data/processed/cursos.csv + fragmentos.jsonl
-uv run python -m ingesta --indexar   # además genera la base vectorial en data/chroma/
-uv run python -m ingesta.inspeccionar "¿En qué curso veré pilas y colas?" --carrera computacion --plan 2018
 ```
 
-Sin uv (Python 3.11): `pip install -r requirements.txt` y luego los mismos comandos sin `uv run`. `requirements.txt` se genera desde `uv.lock` con `uv export --format requirements-txt --no-hashes --no-dev --no-emit-project`.
 
-La base vectorial (`data/chroma/`) no se versiona: se genera localmente con `--indexar`.
+## 3. Generar dataset y base vectorial (≈ 2 min; la primera vez descarga el modelo de embeddings)
+```bash
+uv run python -m ingesta --indexar   # solo `uv run python -m ingesta` si no se requiere la base
+```
+
+## 4. Consultar la base vectorial
+```bash
+uv run python -m ingesta.inspeccionar "¿En qué curso veré pilas y colas?" --carrera computacion --plan 2018 --sin-detalle -n 3
+```
+
+Si `uv` no se reconoce como comando, usar `python -m uv`.
+
+El repositorio incluye los PDF, el dataset y la caché del OCR; la base vectorial (`data/chroma/`) no se versiona y se genera localmente con `--indexar`. Los parámetros de `inspeccionar` se describen en el anexo del [informe de avance](docs/informe_avance_01.md).
 
 | Etapa | Qué hace | Herramienta |
 |:--|:--|:--|

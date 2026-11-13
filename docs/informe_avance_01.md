@@ -182,11 +182,43 @@ El reporte de cada ejecución queda en `logs/ingesta.json`.
 
 ## Anexo: cómo reproducir
 
+Requisitos previos: Git y Python (uv instala por su cuenta Python 3.11). Los comandos se ejecutan en una terminal (PowerShell, CMD o Bash).
+
+**1. Clonar el repositorio**
+
 ```bash
-python -m uv sync
-python -m uv run python -m ingesta --indexar
-python -m uv run python -m ingesta.inspeccionar "¿En qué curso veré pilas y colas?" --carrera computacion --plan 2018
+git clone https://github.com/mark-quispe/Academic-Search-RAG.git
+cd Academic-Search-RAG
 ```
+
+**2. Instalar las dependencias**
+
+`uv sync` crea el entorno virtual `.venv` e instala las versiones exactas de `uv.lock` (PyTorch solo CPU):
+
+```bash
+pip install uv
+uv sync
+```
+
+**3. Generar el dataset y la base vectorial**
+
+El repositorio incluye los PDF, el dataset y la caché del OCR, pero no la base vectorial; esta se genera localmente:
+
+```bash
+uv run python -m ingesta --indexar
+```
+
+La primera ejecución descarga el modelo de embeddings (*multilingual-e5-small*) y tarda ≈ 2 min; produce `data/processed/cursos.csv`, `data/processed/fragmentos.jsonl` y la base en `data/chroma/`.
+
+**4. Consultar la base vectorial**
+
+```bash
+uv run python -m ingesta.inspeccionar "¿En qué curso veré pilas y colas?" --carrera computacion --plan 2018 --sin-detalle -n 3
+```
+
+Muestra los 3 cursos más cercanos a la consulta. Sin `--sin-detalle`, muestra además la estructura de las colecciones.
+
+> Si el comando `uv` no se reconoce, puede usarse `python -m uv` en su lugar.
 
 ### Parámetros del script de inspección
 
